@@ -1,0 +1,27 @@
+_repo: How-to-Invest-Money_34463
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34463-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Henry, George Garr
+    birthdate: 1881
+    deathdate: 1917
+    gutenberg_agent_id: '37040'
+    url: http://www.gutenberg.org/2009/agents/37040
+description: ''
+gutenberg_issued: '2010-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34463'
+  lccn: 08014682
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Investments'
+- !lcc 'HG'
+title: How to Invest Money
+url: http://www.gutenberg.org/ebooks/34463
